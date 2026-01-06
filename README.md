@@ -20,10 +20,13 @@ Estoy en búsqueda de mi **primera experiencia profesional**, deseo poner en pr�
 
 | Proyecto | Descripción | Implementación|
 |---------|-------------|------|
-| :seedling: Swap| Sitio web realizado con **Typescript, NodeJS, MongoDB, HTML y CSS**. Propone un sistema de intercambio de indumentaria. Busca promover el consumo responsable y darle una segunda vida a los productos de la industria textil. | 🌐 [Repo](https://github.com/orgs/SWAP-Fundacion-Pescar/repositories)
-| :telephone_receiver: Callcenter Oeste Cable Color | Aplicación de consola en **Java**. Permite la gestión de contactos y la asistencia a los operadores durante las llamadas, siguiendo reglas de negocio. | 🌐 [Repo](-) |
-| :computer: Sistema de Gestión de Usuarios | Aplicación de consola en **Java** para la gestión de usuarios (registro, login, bloqueo/desbloqueo). | 🌐 [Repo](-) |
-| :yarn: Artesano Conexión| Sitio web realizado con **HTML, CSS y JS**. Permite que cada artesano visibilice sus productos y contacto, y que los organizadores de ferias compartan eventos y novedades. | 🌐 [Sitio](https://artesanoconexion.netlify.app/) |
+| :seedling: Swap | Sitio web realizado con **Typescript, NodeJS, MongoDB, HTML y CSS**. Propone un sistema de intercambio de indumentaria. | 🌐 [Repo](https://github.com/orgs/SWAP-Fundacion-Pescar/repositories) |
+| :yarn: Artesano Conexión | Sitio web realizado con **HTML, CSS y JS**. | 🌐 [Sitio](https://artesanoconexion.netlify.app/) |
+
+<!--
+| :telephone_receiver: Callcenter Oeste Cable Color | Aplicación de consola en **Java**. | 🌐 [Repo](-) |
+| :computer: Sistema de Gestión de Usuarios | Aplicación de consola en **Java**. | 🌐 [Repo](-) |
+-->
 
 ## :mortar_board: Formación Académica
 
