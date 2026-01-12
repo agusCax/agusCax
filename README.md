@@ -22,10 +22,11 @@ Estoy en búsqueda de mi **primera experiencia profesional**, deseo poner en pr�
 |----------|-------------|----------------|
 | :telephone_receiver: Callcenter Oeste Cable Color | Aplicación de consola en **Java**. Gestión de contactos y asistencia a los operadores durante las llamadas. | 🌐[Repositorio](https://github.com/agusCax/PB1__TpFinal_callcenterOesteCableColor) |
 | :computer: Sistema de Gestión de Usuarios | Aplicación de consola en **Java**. Sistema de registro, logueo y control de usuarios. | 🌐[Repositorio](https://github.com/agusCax/PB1_EjercicioSistemas) |
-| :seedling: Swap | Sitio web que propone un sistema de intercambio de indumentaria. Realizado con **HTML, CSS, JS, Typescript, NodeJS, MongoDB**. | 🌐[Repositorio](https://github.com/orgs/SWAP-Fundacion-Pescar/repositories) |
 | :notebook: Edu Matanza | Sitio web de plataforma de cursos online y presenciales. Realizado con **HTML, CSS y JS**. | 🌐[Sitio](https://tubular-chebakia-085fec.netlify.app/) <br> 🌐[Repositorio](https://github.com/Lau-Retta/tp1-programacion-web_1-GrupoP)|
+| :seedling: Swap | Sitio web que propone un sistema de intercambio de indumentaria. Realizado con **HTML, CSS, JS, Typescript, NodeJS, MongoDB**. | 🌐[Repositorio](https://github.com/orgs/SWAP-Fundacion-Pescar/repositories) |
+<!-- 
 | :yarn: Artesano Conexión | Sitio web para la difusión de ferias artesanales. Realizado con **HTML, CSS y JS**. | 🌐[Sitio](https://artesanoconexion.netlify.app/) |
-
+-->
 ## :mortar_board: Formación Académica
 
 - :classical_building: **UNLaM** - Técnica Universitaria en Desarrollo Web (2024 - Presente)
